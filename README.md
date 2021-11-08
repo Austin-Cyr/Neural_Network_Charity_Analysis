@@ -33,6 +33,6 @@ We have received a CSV file containing over 34,000 organizations that have recei
     - I dropped the ASK_AMT column to see if this had a signifant impact on the model. I also binned the ASK_AMT column in one model. I also added more neurons, 
       added one additional hidden layer, and increased the number of epochs.   
 
-##Summmary
+## Summmary
 
   - Compiling and improving the performance of a model can be very difficult because there could be an unlimited number of methods to attempt.
